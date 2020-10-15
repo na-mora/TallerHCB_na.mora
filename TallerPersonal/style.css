@@ -138,8 +138,11 @@ min-height: 60rem;
 }
 
 /**Canciones preferidas*/
-
-
+.canciones-borde{
+    background-color:  rgb(166, 161, 192) ;
+    border-color: rgb(12, 4, 59) ;
+    border-style: solid;
+}
 
 
 #ti{
